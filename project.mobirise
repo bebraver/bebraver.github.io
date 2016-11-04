@@ -23,7 +23,7 @@
     "publishType": "local",
     "publishPath": "file:///Users/axel/GDrive%20be%20braver/Repositories/github_bebraver",
     "versionFirst": "3.8.5",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.8.5"
   },
   "pages": {
@@ -546,6 +546,88 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-label B": {
+              "color": "#ffffff"
+            },
+            ".mbr-price-figure": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "Comparisons",
+          "subtitle": "Compare us to other options you have to get things done. We aim to deliver better value for money than alternatives.",
+          "label1": "HOT!",
+          "title1": "",
+          "subtitle1": "",
+          "currency1": "",
+          "price1": "Benefit",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Turn-around time</li><li class=\"list-group-item\">Skill set</li><li class=\"list-group-item\">Capacity</li><li class=\"list-group-item\">Cost</li><li class=\"list-group-item\">Marketing &amp; Tech</li><li class=\"list-group-item\">Sector knowledge</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label2": "<b>Us</b>",
+          "title2": "",
+          "subtitle2": "",
+          "currency2": "",
+          "price2": "bebraver",
+          "period2": "",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Same day</li><li class=\"list-group-item\">Broad</li><li class=\"list-group-item\">Resourced for you</li><li class=\"list-group-item\">Mid</li><li class=\"list-group-item\">Both</li><li class=\"list-group-item\">Been there, done it</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "",
+          "subtitle3": "",
+          "currency3": "",
+          "price3": "Temp",
+          "period3": "",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Same day</li><li class=\"list-group-item\">Narrow</li><li class=\"list-group-item\">1</li><li class=\"list-group-item\">Low</li><li class=\"list-group-item\">One or other</li><li class=\"list-group-item\">Little</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "",
+          "subtitle4": "",
+          "currency4": "",
+          "price4": "Agency",
+          "period4": "",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Tomorrow</li><li class=\"list-group-item\">Broad</li><li class=\"list-group-item\">Multiples</li><li class=\"list-group-item\">High</li><li class=\"list-group-item\">One or other</li><li class=\"list-group-item\">Some</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
           "_inherit": "pricing-table1",
           "_styles": {
             ".mbr-plan-header, .mbr-plan-body": {
@@ -600,8 +682,8 @@
           "currency1": "£",
           "price1": "694",
           "period1": "/day",
-          "description1": "No comittment needed. Just pay-as-you go.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">No comittment</li><li class=\"list-group-item\">Pay as you go</li><li class=\"list-group-item\">7 day terms&nbsp;</li></ul>",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">No comittment</li><li class=\"list-group-item\">Pay as you go</li><li class=\"list-group-item\">7 day terms&nbsp;</li><li class=\"list-group-item\">24 hour turn around</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
           "label2": "★",
           "title2": "WORKING TOGETHER",
@@ -609,8 +691,8 @@
           "currency2": "£",
           "price2": "896",
           "period2": "/day",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Min 3 days per month</span><br><li class=\"list-group-item\">Pay in advance</li><li class=\"list-group-item\">30 day terms</li></ul>",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Min 3 days per month</span><br><li class=\"list-group-item\">Pay in advance</li><li class=\"list-group-item\">30 day terms</li><li class=\"list-group-item\">Same day</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
           "label3": "HOT!",
           "title3": "PROJECT WORK",
@@ -627,8 +709,8 @@
           "currency4": "£",
           "price4": "1,298",
           "period4": "/day",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Min 2 days per week</li><li class=\"list-group-item\">Pay in arears</li><li class=\"list-group-item\">30 day terms</li></ul>",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Min 2 days per week</li><li class=\"list-group-item\">Pay in arears</li><li class=\"list-group-item\">30 day terms</li><li class=\"list-group-item\">Guaranteed</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
         },
         {

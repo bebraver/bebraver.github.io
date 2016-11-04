@@ -438,6 +438,18 @@ h6,
 #testimonials1-3 .card-footer > div {
   color: #ffffff;
 }
+#pricing-table1-g .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-g .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-g .mbr-plan-label B {
+  color: #ffffff;
+}
+#pricing-table1-g .mbr-price-figure {
+  font-size: 36px;
+}
 #pricing-table2-6 .mbr-plan-header,
 #pricing-table2-6 .mbr-plan-body {
   background-color: #f4f4f4;

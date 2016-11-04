@@ -414,6 +414,10 @@ h6,
 #header1-0 .mbr-section-lead {
   color: #f7da64;
 }
+#msg-box3-f .mbr-section-title,
+#msg-box3-f p {
+  color: #000;
+}
 #msg-box3-e .mbr-section-title,
 #msg-box3-e p {
   color: #000;
